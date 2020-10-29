@@ -1,0 +1,3 @@
+rootProject.name='SeekBarRotate'
+include ':app'
+include ':module_seekbarrotate'
